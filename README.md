@@ -2,8 +2,8 @@
 
 My name is Shawn McLaughlin. I'm a husband, father, and software developer living and working in the greater philadelphia area. I love learning new technologies and building cool things.
 
-- ⚙️ I primarily work with C#, SQL Server, PostgreSQL and Docker
-- 🌱 I’m currently learning Kubernetes, GoLang, MongoDB, and React
+- ⚙️ I primarily work with GoLang, C#, SQL Server, PostgreSQL MongoDB, and Docker
+- 🌱 I’m currently learning Kubernetes, and React
 - 📫 How to reach me: Shawn@ShawnMcLaughlin.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
